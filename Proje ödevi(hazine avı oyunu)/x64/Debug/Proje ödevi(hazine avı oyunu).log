@@ -1,0 +1,4 @@
+﻿  Proje ödevi(hazine avı oyunu).cpp
+C:\Users\Burak\source\repos\Proje ödevi(hazine avı oyunu)\Proje ödevi(hazine avı oyunu)\Proje ödevi(hazine avı oyunu).cpp(437,6): warning C4101: 'cikma': unreferenced local variable
+C:\Users\Burak\source\repos\Proje ödevi(hazine avı oyunu)\Proje ödevi(hazine avı oyunu)\Proje ödevi(hazine avı oyunu).cpp(787,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Proje ödevi(hazine avı oyunu).vcxproj -> C:\Users\Burak\source\repos\Proje ödevi(hazine avı oyunu)\x64\Debug\Proje ödevi(hazine avı oyunu).exe

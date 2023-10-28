@@ -871,7 +871,7 @@ void LabirentOyunu()
 				karakterKordinatY = geciciY;
 				system("CLS");
 				LabirentHarita(labirent);
-				Sleep(3000);
+				Sleep(300);
 			}
 		}
 		else if (yon == "sag" && labirent[karakterKordinatY][karakterKordinatX + 1] == 1) {
@@ -884,7 +884,7 @@ void LabirentOyunu()
 				karakterKordinatX = geciciX;
 				system("CLS");
 				LabirentHarita(labirent);
-				Sleep(3000);
+				Sleep(300);
 			}
 			geciciY = karakterKordinatY;
 		}
@@ -899,7 +899,7 @@ void LabirentOyunu()
 				karakterKordinatX = geciciX;
 				system("CLS");
 				LabirentHarita(labirent);
-				Sleep(3000);
+				Sleep(300);
 			}
 			geciciY = karakterKordinatY;
 		}
@@ -913,7 +913,7 @@ void LabirentOyunu()
 				karakterKordinatY = geciciY;
 				system("CLS");
 				LabirentHarita(labirent);
-				Sleep(3000);
+				Sleep(300);
 			}
 		}
 		if (labirent[karakterKordinatY - 1][karakterKordinatX] == 2) //  hedefe ulaşsa dahi son defa yön istiyor ,bu if şartı  son defa yön istemesini engelliyor.
